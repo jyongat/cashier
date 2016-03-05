@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configure>
+    <Property>
+        <Key>ActiveStrategy</Key>
+        <!-- ActiveStrategy Value项可配"MNActiveFirst" or "DiscountActiveFirst"-->
+        <Value>MNActiveFirst</Value>
+    </Property>
+    
+    <Property>
+        <Key>ShopName</Key>
+        <!-- ShopName Value项可随便配制-->
+        <Value>没钱赚商店</Value>
+    </Property>
+    
+    <!-- 修改下述提示信息，使打印支持多语言 -->
+    <Property>
+        <Key>HintCartManifest</Key>
+        <Value>购物清单</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintName</Key>
+        <Value>名称：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintQuantity</Key>
+        <Value>，数量：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintPrice</Key>
+        <Value>，单价：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintSubTotal</Key>
+        <Value>，小计：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintTotal</Key>
+        <Value>总计：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintMoneName</Key>
+        <Value>（元）</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintSave</Key>
+        <Value>节省：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintActiveGift</Key>
+        <Value>活动赠送</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintActiveJoin</Key>
+        <Value>，参加活动：</Value>
+    </Property>
+    
+    <Property>
+        <Key>HintMNActiveFormat</Key>
+        <Value>买%s送%s</Value>
+    </Property>
+</Configure>
